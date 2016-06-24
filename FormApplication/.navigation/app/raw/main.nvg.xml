@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.necdet.formapplication.Kullanici"/>
+      <point      
+        x = "1748"      
+        y = "164"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.necdet.formapplication.FormOlustur"/>
+      <point      
+        x = "2676"      
+        y = "160"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.necdet.formapplication.Giris"/>
+      <point      
+        x = "2740"      
+        y = "1488"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.necdet.formapplication.FormSon"/>
+      <point      
+        x = "1588"      
+        y = "1584"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.necdet.formapplication.Kayit"/>
+      <point      
+        x = "500"      
+        y = "1520"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.necdet.formapplication.MainActivity"/>
+      <point      
+        x = "308"      
+        y = "68"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>

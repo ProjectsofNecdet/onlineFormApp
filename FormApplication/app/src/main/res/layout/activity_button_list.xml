@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/newTagTableRow"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    android:weightSum="1">
+
+    <ListView
+        android:layout_width="350dp"
+        android:layout_height="70dp"
+        android:id="@+id/listView"
+        android:layout_weight="1.25" />
+
+    <ImageButton
+        android:layout_width="40dp"
+        android:layout_height="75dp"
+        android:id="@+id/newImageButtonBaslik"
+        android:src="@android:drawable/presence_busy"
+        android:layout_weight="0.05"
+        android:layout_gravity="right"
+        android:foregroundGravity="right" />
+
+</TableRow>

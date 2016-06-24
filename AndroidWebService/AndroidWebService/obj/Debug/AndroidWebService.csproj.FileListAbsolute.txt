@@ -1,0 +1,5 @@
+C:\Users\Necdet\Desktop\webservice\AndroidWebService\AndroidWebService\bin\AndroidWebService.dll
+C:\Users\Necdet\Desktop\webservice\AndroidWebService\AndroidWebService\bin\AndroidWebService.pdb
+C:\Users\Necdet\Desktop\webservice\AndroidWebService\AndroidWebService\obj\Debug\AndroidWebService.csprojResolveAssemblyReference.cache
+C:\Users\Necdet\Desktop\webservice\AndroidWebService\AndroidWebService\obj\Debug\AndroidWebService.dll
+C:\Users\Necdet\Desktop\webservice\AndroidWebService\AndroidWebService\obj\Debug\AndroidWebService.pdb
